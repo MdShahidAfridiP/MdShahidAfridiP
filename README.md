@@ -25,7 +25,7 @@
 
 ### Worked with 
 
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg" title="python"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
