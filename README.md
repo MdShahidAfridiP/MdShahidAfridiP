@@ -26,14 +26,14 @@
 ### Worked with 
 
 <code><img height="40" src="https://www.python.org/static/community_logos/python-powered-w.svg" title="python"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" title="C"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html5.svg" title="html5"></code>
+<code><img height="40" src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png" title="C"></code>
+<code><img height="40" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" title="java"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" title="django"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://iconape.com/wp-content/files/pi/370799/svg/django-logo-icon-png-svg.png" title="django"></code>
+<code><img height="40" src="https://iconape.com/wp-content/png_logo_vector/mysql-logo.png" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" title="linux"></code>
+<code><img height="40" src="https://iconape.com/wp-content/png_logo_vector/linux-tux.png" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
