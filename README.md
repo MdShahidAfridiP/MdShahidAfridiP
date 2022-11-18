@@ -14,9 +14,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a FreeLancer Working on Government Project at [District Industries Centre](http://dic.pythonanywhere.com/);
-- 💼 I’m currently pursuing my final year of Bachelor's degree in Computer Science at [VTU](https://vtu.ac.in/);
-- 🤔 My interests are with Machine Learning 🖥️, Data Science 📊, Coding 🖥️, Cricket 🏏, Space 🚀, etc..;
+- 👨🏽‍💻 I’m a Working as Senior Research Associcate at [CloudThat](https://www.cloudthat.com/);
+- 💼 I pursued Bachelor's degree in Computer Science at [VTU](https://vtu.ac.in/);
+- 🤔 My interests are with Cloud, Machine Learning 🖥️, Data Science 📊, Coding 🖥️, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via shahid.cse.rymec@gmail.com to reach me;
