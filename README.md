@@ -21,6 +21,7 @@ hi, i'm [Shahid](https://www.linkedin.com/in/md-shahid-afridi-p-b5a72a1a3/), A D
 <code><img height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg"></code>
 
 📊 **this week i spent my time on:**
 
