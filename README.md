@@ -7,7 +7,7 @@ hi, i'm [Shahid](https://www.linkedin.com/in/md-shahid-afridi-p-b5a72a1a3/), A D
 - 💬 ask me about anything, i am happy to help;
 
 
-  <img align="center" alt="GIF" src="https://github.com/MdShahidAfridiP/MdShahidAfridiP/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/MdShahidAfridiP/MdShahidAfridiP/blob/088dfbeee06b4e1e2cbd42ef038cc88e7a5e9056/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
 
