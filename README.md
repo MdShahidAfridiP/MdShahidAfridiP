@@ -1,4 +1,4 @@
-hi, i'm [Shahid](https://www.linkedin.com/in/md-shahid-afridi-p-b5a72a1a3/), A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+Hi There, I'm [Shahid](https://www.linkedin.com/in/md-shahid-afridi-p-b5a72a1a3/), A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 - 🌱 I’m currently working as a **Data Engineer - Research and Advanced Engineering(RAE) at Continental AG**
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
