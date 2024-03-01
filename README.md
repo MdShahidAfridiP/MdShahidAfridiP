@@ -4,7 +4,7 @@ Hi There, I'm [Shahid](https://www.linkedin.com/in/md-shahid-afridi-p-b5a72a1a3/
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💼 any freelance work? do reach, [email](mailto:mdshahidafridip@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help!
 
 
   <img align="center" alt="GIF" src="https://github.com/MdShahidAfridiP/MdShahidAfridiP/blob/088dfbeee06b4e1e2cbd42ef038cc88e7a5e9056/code.gif?raw=true" width="500" height="320" />
